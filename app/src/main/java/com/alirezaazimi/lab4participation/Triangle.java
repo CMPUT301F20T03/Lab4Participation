@@ -1,4 +1,4 @@
 package com.alirezaazimi.lab4participation;
 
-public class Triangle {
+public class Triangle extends Shape{
 }
